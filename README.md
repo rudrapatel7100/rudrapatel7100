@@ -34,8 +34,28 @@
 
 # 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <em>Currently exploring backend technologies.</em>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <em>Coming soon...</em>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
