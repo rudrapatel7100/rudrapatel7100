@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Building the Web, One Project at a Time
-
 <h1>Hi 👋, I'm Rudra Patel</h1>
+
+# 🚀 Building the Web, One Project at a Time
 
 <h3>💻 Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
