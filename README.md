@@ -92,15 +92,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rudrapatel7100&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
