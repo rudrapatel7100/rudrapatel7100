@@ -72,9 +72,14 @@
 # 📊 GitHub Stats
 
 <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca6e5f26251a2fbd07382ae40cb857e53a24c884a70eb926572834cfaa0e8382/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d416e7368506174656c3437267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/ca6e5f26251a2fbd07382ae40cb857e53a24c884a70eb926572834cfaa0e8382/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d416e7368506174656c3437267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshPatel47&amp;theme=tokyonight" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"
+     href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight"
+      alt="GitHub Stats"
+      style="max-width: 100%;">
+  </a>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
