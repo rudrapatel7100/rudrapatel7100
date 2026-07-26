@@ -4,7 +4,7 @@
 
 # 🚀 Building the Web, One Project at a Time
 
-<h3>💻 Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
+<h3> Aspiring Software Engineer | JavaScript Enthusiast | Lifelong Learner</h3>
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+Frontend+Developer;Building+Awesome+JavaScript+Projects;Always+Learning+New+Technologies;Next+Destination+React.js" alt="Typing SVG" />
