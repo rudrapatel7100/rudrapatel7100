@@ -71,13 +71,12 @@
 
 # 📊 GitHub Stats
 
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow"
-     href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight">
-    <img
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight">
+    <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight"
       alt="GitHub Stats"
-      style="max-width: 100%;">
+    />
   </a>
 </p>
 ---
