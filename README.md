@@ -91,16 +91,27 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrapatel7100&theme=tokyonight"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    width="40%" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=rudrapatel7100&theme=tokyonight&hide_border=true&border_radius=10" 
+    width="50%" 
+  />
+</p>
+
 
 ---
 
@@ -126,6 +137,34 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/rudrapatel7100/rudrapatel7100/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake animation"
+  />
+</p>
+
+---
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-LeetCode%20Practice-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-Development-FF6F61?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">💭 Software Developer Quote</h2>
+
+<p align="center">
+  <i>"Turning ideas into reality, one line of code at a time. ✨"</i>
+</p>
+
+---
 
 <div align="center">
 
