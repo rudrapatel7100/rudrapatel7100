@@ -94,24 +94,10 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
-    width="48%" 
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
-    width="40%" 
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rudrapatel7100&theme=tokyonight&hide_border=true&border_radius=10" 
-    width="50%" 
-  />
-</p>
-
 
 ---
 
@@ -126,7 +112,6 @@
 ---
 
 
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -137,7 +122,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rudrapatel7100/rudrapatel7100/gh-pages/github-contribution-grid-snake-dark.svg" />
@@ -145,7 +130,7 @@
 
 ---
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2>🌱 Currently Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -155,7 +140,7 @@
 
 ---
 
-<h2 align="center">💭 Software Developer Quote</h2>
+<h2>💭 Software Developer Quote</h2>
 
 <p align="center">
   <i>"Turning ideas into reality, one line of code at a time. ✨"</i>
