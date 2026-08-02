@@ -91,12 +91,25 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapatel7100&theme=tokyonight&hide_border=true"
+    width="50%"
+  />
 </p>
 
 ---
@@ -122,7 +135,7 @@
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rudrapatel7100/rudrapatel7100/gh-pages/github-contribution-grid-snake-dark.svg" />
@@ -130,12 +143,12 @@
 
 ---
 
-<h2>🌱 Currently Learning</h2>
+# 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-LeetCode%20Practice-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frontend-Development-FF6F61?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  ⚛️ React.js <br>
+  🟨 JavaScript problem solving on LeetCode <br>
+  🚀 Building frontend projects with HTML, CSS & JavaScript
 </p>
 
 ---
