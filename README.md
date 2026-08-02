@@ -91,24 +91,15 @@
 
 ---
 
-# 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=rudrapatel7100&show_icons=true&theme=radical"
     width="48%"
   />
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapatel7100&layout=compact&theme=radical"
     width="40%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapatel7100&theme=tokyonight&hide_border=true"
-    width="50%"
   />
 </p>
 
