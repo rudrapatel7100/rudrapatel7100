@@ -145,7 +145,7 @@
 
 # 🌱 Currently Learning
 
-<p align="center">
+<p>
   ⚛️ React.js <br>
   🟨 JavaScript problem solving on LeetCode <br>
   🚀 Building frontend projects with HTML, CSS & JavaScript
